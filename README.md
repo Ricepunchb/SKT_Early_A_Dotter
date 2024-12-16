@@ -90,4 +90,4 @@ SK텔레콤 얼리어닷터 운영진입니다.
 [#3](https://github.com/sjki928/Earlyadottor/issues/2)
 
 # 4. 최종 기획안 작성
-[#4](https://github.com/sjki928/Earlyadottor/issues/3)
+[#4](https://github.com/sjki928/Earlyadottor/issues/4)
