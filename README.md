@@ -86,5 +86,8 @@ SK텔레콤 얼리어닷터 운영진입니다.
 # 2. 팀 소개 작성
  https://github.com/sjki928/Earlyadottor/issues/1
 
- # 3. 1차 기획안 작성
- [#3](https://github.com/sjki928/Earlyadottor/issues/2)
+# 3. 1차 기획안 작성
+[#3](https://github.com/sjki928/Earlyadottor/issues/2)
+
+# 4. 최종 기획안 작성
+[#4](https://github.com/sjki928/Earlyadottor/issues/3)
