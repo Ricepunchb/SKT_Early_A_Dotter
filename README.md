@@ -91,3 +91,12 @@ SK텔레콤 얼리어닷터 운영진입니다.
 
 # 4. 최종 기획안 작성
 [#4](https://github.com/sjki928/Earlyadottor/issues/4)
+
+## 최종 수료증
+<details>
+<summary>지원 기획서 전문</summary>
+
+![정보성_수료증](https://github.com/user-attachments/assets/42d892a0-4967-4bdd-8605-5802a8dab5ed)
+
+</details>
+
